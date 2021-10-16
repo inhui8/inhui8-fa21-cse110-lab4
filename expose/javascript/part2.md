@@ -24,5 +24,13 @@ the for loop, thus it will print 3.
     F.output: 3 is number because false can become 0
     G.output: '3undefined' is a string because '3' is string and in + the other one will become string
     H.output: NaN is number type but since it is - undefined, so it becomes NaN
+14. A.output: true because the string '2' becomes a number 2
+    B.output: false because 
+    C.output: true
+    D.output: false because the type is different
+    E.output: false becuase true ==1, so true <2
+    F.output: true
+15. == use to compare two variables, and it will not compare the datatype of varibles, but === both compare the variables and their types.
+16. 
 
 
