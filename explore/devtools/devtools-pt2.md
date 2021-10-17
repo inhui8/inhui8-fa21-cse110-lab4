@@ -1,0 +1,2 @@
+1. what is the bug? the bug is num1 and num1 is string type, so the result will be string too, and they add is string add, it means that "1"+"2" will be "12"
+2. How would you fix it? we can easily add the Number before num1 and num2, it will looks like Number(num1) and Number(num2), it will convert the string to number, and get the right result in example 1+2 =3.

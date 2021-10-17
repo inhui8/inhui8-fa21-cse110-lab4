@@ -31,6 +31,12 @@ the for loop, thus it will print 3.
     E.output: false becuase true ==1, so true <2
     F.output: true
 15. == use to compare two variables, and it will not compare the datatype of varibles, but === both compare the variables and their types.
-16. 
-
+16. in part2-question16.js
+17. result will be [2,4,6], since the first function is callback function being called, it will excute the rest function which is doSomething and makes array [1,2,3]*2, and then do the callback thus we get [2,4,6].
+18. in part2-question18.js
+19. Output:
+    1
+    4
+    3
+    2
 
